@@ -13,7 +13,7 @@ module.exports = {
   menu: [
     {
       label: 'Articles',
-      path: '/'
+      path: '/posts/'
     },
     {
       label: 'About me',
@@ -21,7 +21,7 @@ module.exports = {
     },
     {
       label: 'IT CS',
-      path: '/pages/contacts'
+      path: '/cs/'
     }
   ],
   author: {
