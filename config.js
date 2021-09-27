@@ -16,12 +16,8 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'All',
+      label: 'Articles',
       path: '/'
-    },
-    {
-      label: 'IT CS',
-      path: 'cs'
     }
   ],
   author: {
