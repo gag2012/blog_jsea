@@ -20,7 +20,7 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'CS',
+      label: 'IT CS',
       path: '/pages/contacts'
     }
   ],
