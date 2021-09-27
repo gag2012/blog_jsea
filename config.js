@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://www.jsea.tech/',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Jsea Blog',
+  subtitle: 'better tech',
+  copyright: '© All rights reserved Jsea.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -21,7 +21,7 @@ module.exports = {
     },
     {
       label: 'IT CS',
-      path: '/cs'
+      path: 'cs'
     }
   ],
   author: {
@@ -29,11 +29,11 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Infra, Network, IT engineer',
     contacts: {
-      email: '',
+      email: 'js.kim096@gmail.com',
       facebook: '',
       telegram: '',
       twitter: '',
-      github: '#',
+      github: 'gag2012',
       rss: '',
       vkontakte: '',
       linkedin: '',
