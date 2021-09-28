@@ -29,7 +29,7 @@ module.exports = {
       facebook: '',
       telegram: '',
       twitter: '',
-      github: 'gag2012',
+      github: 'jskim096',
       rss: '',
       vkontakte: '',
       linkedin: '',
